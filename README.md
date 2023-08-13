@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on as Automation QA Engineer [Exlab StartUp](https://www.linkedin.com/company/exlab-start-up/?originalSubdomain=by)
 
-- 👨‍💻 All of my projects are available at [DShurpik]([https://github.com/DShurpik](https://github.com/DShurpik?tab=repositories))
+- 👨‍💻 All of my projects are available at [DShurpik](https://github.com/DShurpik?tab=repositories)
 
 - 📫 How to reach me **dimashurpik@gmail.com**
 
