@@ -5,7 +5,7 @@
 
 - 🛠 1 year an AQA Engineer
 
-- 🔭 I’m currently working on as Automation QA Engineer [Exlab StartUp](https://www.linkedin.com/company/exlab-start-up/?originalSubdomain=by)
+- 🔭 I had been working as an Automation QA Engineer for 7 months. [Exlab StartUp](https://www.linkedin.com/company/exlab-start-up/?originalSubdomain=by)
 
 - 👨‍💻 All of my projects are available at [DShurpik](https://github.com/DShurpik?tab=repositories)
 
